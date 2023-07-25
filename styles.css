@@ -1,0 +1,16 @@
+/* MASTHEAD */
+
+.masthead {
+  padding-top: calc(4rem);
+  background: rgb(214, 212, 212);
+  background: linear-gradient(
+    0deg,
+    rgba(214, 212, 212, 1) 0%,
+    rgba(215, 215, 215, 1) 43%,
+    rgba(255, 255, 255, 1) 67%
+  );
+}
+
+.masthead-image {
+  width: 100%;
+}
